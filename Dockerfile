@@ -1,5 +1,5 @@
 FROM httpd:2.4
-MAINTAINER shanky@adamtheautomator.com
+MAINTAINER sudip.proshad@bjitgroup.com
 COPY index.html /var/www/html/
 EXPOSE 80
 #FROM centos:7
