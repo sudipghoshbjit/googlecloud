@@ -1,6 +1,6 @@
 FROM httpd:2.4
 MAINTAINER sudip.proshad@bjitgroup.com
-COPY index.html /var/www/html/
+#COPY index.html /var/www/html/
 EXPOSE 80
 #FROM centos:7
 #RUN yum install -y httpd 
